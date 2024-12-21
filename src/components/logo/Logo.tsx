@@ -5,7 +5,7 @@ export const Logo = () => {
     return (
 
         <a href="">
-            <Icon iconId={'pavan007Color'}/>
+            <Icon iconId={'pavan007'}/>
         </a>
 
     );
